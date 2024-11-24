@@ -2,9 +2,9 @@
 
 [Startseite](index.md) | [Projekte](projects.md)
 
-# Willkommen auf meiner Homepage
+# HL Skripten
 
-Dies ist meine persönliche Website. Hier findest du Informationen über mich und meine Projekte.
+Hier findest du eine Sammlung der Skripten
 
 ## Links
 - [Projekte](projects.md)
