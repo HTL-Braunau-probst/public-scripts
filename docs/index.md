@@ -2,7 +2,7 @@
 
 [Startseite](index.md) | [Projekte](projects.md)
 
-# HL Skripten
+# HTL Skripten
 
 Hier findest du eine Sammlung der Skripten
 
