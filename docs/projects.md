@@ -1,7 +1,3 @@
-# Navigation
-
-[Startseite](index.md) | [Projekte](projects.md)
-
 # Übersicht
 
 ## 2. Klasse
