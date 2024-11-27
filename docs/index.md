@@ -15,4 +15,4 @@ Hier findest du eine Sammlung der Skripten
 ## 4. Klasse
 - [ITS LAB](https://github.com/HTL-Braunau-probst/ITSE-4-LAB)
 - [SEW](https://github.com/HTL-Braunau-probst/SEW-4) - [solutions](https://github.com/HTL-Braunau-probst/SEW-4-solutions)
-- [ITPI] (https://github.com/HTL-Braunau-probst/ITPI-4)
+- [ITPI](https://github.com/HTL-Braunau-probst/ITPI-4)
