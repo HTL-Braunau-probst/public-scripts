@@ -16,3 +16,6 @@ Hier findest du eine Sammlung der Skripten
 - [ITS LAB](https://github.com/HTL-Braunau-probst/ITSE-4-LAB)
 - [SEW](https://github.com/HTL-Braunau-probst/SEW-4) - [solutions](https://github.com/HTL-Braunau-probst/SEW-4-solutions)
 - [ITPI](https://github.com/HTL-Braunau-probst/ITPI-4)
+
+## 5. Klasse
+- [ITS Theorie](https://github.com/HTL-Braunau-probst/ITS1-5)
