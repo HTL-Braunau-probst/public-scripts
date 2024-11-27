@@ -2,5 +2,4 @@
 
 Hier findest du eine Sammlung der Skripten
 
-## Links
 - [Projekte](projects.md)
