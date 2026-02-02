@@ -1,3 +1,7 @@
+# Berichte
+- ![Organisatorisches](00_organisatorisches_berichte.md)
+
+
 # HTL Skripten
 
 Hier findest du eine Sammlung der Skripten
@@ -22,5 +26,3 @@ Hier findest du eine Sammlung der Skripten
 - [ITS Theorie](https://github.com/HTL-Braunau-probst/ITS1-5)
 
 
-# Berichte
-- ![Organisatorisches](00_organisatorisches_berichte.md)
