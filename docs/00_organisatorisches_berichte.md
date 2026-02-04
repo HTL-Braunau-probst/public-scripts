@@ -18,6 +18,7 @@ Pro Teams Zuweisung ein Dokument, **im PDF Format**
   - Link zur Aufgabenstellung
 
 - **Alle Aufgabenstellungen inklusive Beschreibung** sind im Bericht enthalten.
+  - Angabe kursiv schreiben.
   - Wurde eine Übung nur teilweise fertiggestellt oder gar nicht begonnen, ist dies im Bericht zu vermerken.
 - Beschreibt, was ihr gemacht habt. Speziell Kommandos und Attribute oder vorgangsweisen.
 - Muss in der Übung etwas ausgeführt werden, dann muss dies auch in der Ausgabe enthalten sein.
@@ -29,6 +30,7 @@ Pro Teams Zuweisung ein Dokument, **im PDF Format**
 
 ### Abgabe:
 - Upload erfolgt über Teams>Zuweisungen
+- ein PDF Dokument angehängt. Kein Link auf eine PDF
 - Eine verspätete Abgabe wird als keine Abgabe bewertet
 - Wurde die Übung versäumt, muss im abgegebenen Dokument "nicht anwesend" vermerkt werden
 - Jeder gibt einen Bericht ab
@@ -36,7 +38,17 @@ Pro Teams Zuweisung ein Dokument, **im PDF Format**
 # Notengebung
 
 Die Berichte werden für die Note herangezogen.
+
+Berechnung: 
+`Prozentsatz=(Summe erreichter Punkte) / (Summe maximale Punkte)`
+
+Notenspiegel
+| Note | Sehr Gut | Gut | Befriedigend | Genügend | Nicht Genügend |
+| :--: |:--: |:--: |:--: |:--: |:--: |
+| Prozent | >=87,5 | >=75 | >=62,5 | >= 50 | <50 |
+
 Sporadisch kann in der nächsten Stunde noch einmal eine kleine Überprüfung zur vorangegangen Stunde kommen.
+
 
 
 
