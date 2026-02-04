@@ -1,4 +1,4 @@
-# Organisatorisches
+# Organisatorisches Labor
 
 ## Berichte
 Berichte sollte so geschrieben sein, dass dieser nach ein paar Jahren mit der geforderten Aufgabenstellung selbst wieder durchgeführt werden kann. Noch besser ist, wenn es ein anderer kann.
@@ -35,7 +35,7 @@ Pro Teams Zuweisung ein Dokument, **im PDF Format**
 - Wurde die Übung versäumt, muss im abgegebenen Dokument "nicht anwesend" vermerkt werden
 - Jeder gibt einen Bericht ab
 
-# Notengebung
+## Notengebung
 
 Die Berichte werden für die Note herangezogen.
 
@@ -48,6 +48,7 @@ Notenspiegel
 | Prozent | >=87,5 | >=75 | >=62,5 | >= 50 | <50 |
 
 Sporadisch kann in der nächsten Stunde noch einmal eine kleine Überprüfung zur vorangegangen Stunde kommen.
+
 
 
 
